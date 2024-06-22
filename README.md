@@ -14,6 +14,9 @@ Here is the Game Overview. We can see the present Ammo is 11.![Screenshot 2024-0
 We start by finding the Variable Address which stores the Ammo Value.![Screenshot 2024-06-22 135709](https://github.com/x64-exploit0r/AssaultCubeAmmoHack/assets/103557267/32c3f397-54ee-4390-9d26-8567f15e0570)
 
 
+
+
+
 Next We define the Address in our code.![Screenshot 2024-06-22 135749](https://github.com/x64-exploit0r/AssaultCubeAmmoHack/assets/103557267/4dda54f1-22fc-4514-b733-7bf62b86637b)
 
 
